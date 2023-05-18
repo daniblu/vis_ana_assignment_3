@@ -1,0 +1,21 @@
+                      precision    recall  f1-score   support
+
+              blouse       0.87      0.90      0.88       500
+         dhoti_pants       0.73      0.26      0.38       500
+            dupattas       0.67      0.50      0.57       500
+               gowns       0.60      0.38      0.46       500
+           kurta_men       0.61      0.74      0.67       500
+leggings_and_salwars       0.52      0.73      0.61       500
+             lehenga       0.79      0.86      0.82       500
+         mojaris_men       0.84      0.75      0.79       500
+       mojaris_women       0.77      0.83      0.80       500
+       nehru_jackets       0.71      0.83      0.77       500
+            palazzos       0.83      0.68      0.75       500
+          petticoats       0.76      0.71      0.73       500
+               saree       0.67      0.85      0.75       500
+           sherwanis       0.78      0.59      0.67       500
+         women_kurta       0.46      0.74      0.57       500
+
+            accuracy                           0.69      7500
+           macro avg       0.71      0.69      0.68      7500
+        weighted avg       0.71      0.69      0.68      7500

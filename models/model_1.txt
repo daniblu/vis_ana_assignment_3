@@ -1,0 +1,7 @@
+Batch size: 128 
+Epochs: 1 
+Initial learning rate: 0.01 
+Decay steps: 10000 
+Decay rate: 0.9 
+Horizontal flip: False 
+Rotation range: 0
